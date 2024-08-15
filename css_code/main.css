@@ -1,0 +1,33 @@
+body{
+    background: url(../picture.jpeg);
+    
+}
+.button{
+    margin-top: 450px;
+}
+button{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.body {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  position: relative;
+  
+  
+}
+
+ 
+/* Transform : translate moves the element from one section to another has X and Y axis  ;
+             : scale changes the size of the element
+              :rotate using rotateZ changes the angle of the element
+              
+   Transition: gives a duration and how transformations should take place
+               has 3 parts section of translation: background  ;Duration :: 1sec ; Delay ::1sec  ; pacing:: ease-n --slow to fast ,ease-out --slow to fast , linear -- same speed         */
